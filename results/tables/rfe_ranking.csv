@@ -1,0 +1,32 @@
+Feature,RFE_Rank
+radius_se,1
+area_se,1
+concave points_mean,1
+concavity_worst,1
+radius_worst,1
+texture_worst,1
+perimeter_worst,1
+compactness_se,1
+concave points_worst,1
+area_worst,1
+area_mean,2
+smoothness_worst,3
+texture_mean,4
+symmetry_worst,5
+concave points_se,6
+concavity_mean,7
+fractal_dimension_se,8
+perimeter_se,9
+compactness_mean,10
+radius_mean,11
+texture_se,12
+perimeter_mean,13
+smoothness_mean,14
+symmetry_se,15
+smoothness_se,16
+symmetry_mean,17
+compactness_worst,18
+concavity_se,19
+id,20
+fractal_dimension_worst,21
+fractal_dimension_mean,22
